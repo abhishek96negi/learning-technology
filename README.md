@@ -5,4 +5,5 @@
 3. [GraphQL](/docs/GraphQL.ipynb)
 4. [Docker](/docs/Docker.ipynb)
 5. [Celery](/docs/Celery.ipynb)
+6. [Redis](/docs/Redis.ipynb)
 
