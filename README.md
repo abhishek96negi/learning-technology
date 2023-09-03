@@ -6,4 +6,6 @@
 4. [Docker](/docs/Docker.ipynb)
 5. [Celery](/docs/Celery.ipynb)
 6. [Redis](/docs/Redis.ipynb)
+7. [Redis](/docs/Redis%20(Pub%20Sub).ipynb)
+
 
