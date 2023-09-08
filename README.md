@@ -7,5 +7,5 @@
 5. [Docker Compose](/docs/Docker%20compose.ipynb)
 6. [Celery](/docs/Celery.ipynb)
 7. [Redis](/docs/Redis.ipynb)
-8. [Redis](/docs/Redis%20(Pub%20Sub).ipynb)
-10. [Redis](/docs/Redis%20Persistence.ipynb)
+8. [Redis (Pub/Sub) ](/docs/Redis%20(Pub%20Sub).ipynb)
+10. [Redis (Persistence)](/docs/Redis%20Persistence.ipynb)
