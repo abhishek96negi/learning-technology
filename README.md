@@ -9,3 +9,4 @@
 7. [Redis](/docs/Redis.ipynb)
 8. [Redis (Pub/Sub) ](/docs/Redis%20(Pub%20Sub).ipynb)
 10. [Redis (Persistence)](/docs/Redis%20Persistence.ipynb)
+11. [Redis (Master-Slave)](/docs/Redis%20Master-slave.ipynb)
