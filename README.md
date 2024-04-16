@@ -10,3 +10,4 @@
 8. [Redis (Pub/Sub) ](/docs/Redis%20(Pub%20Sub).ipynb)
 10. [Redis (Persistence)](/docs/Redis%20Persistence.ipynb)
 11. [Redis (Master-Slave)](/docs/Redis%20Master-slave.ipynb)
+12. [RabbitMQ (listen message from the queue).ipynb](/docs/RabbitMQ%20(listen%20message%20from%20the%20queue.ipynb)
